@@ -1,0 +1,56 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Table of Contents
+    output: web, pdf
+    folderitems:
+
+    - title: I. Protecting Software Design
+      url: /index.html
+      output: web
+
+    - title: II. Limitations of Intellectual Property
+      url: /paper_ch2.html
+      output: web
+
+    - title: III. How to Register Copyright Protection for Computer Programs
+      url: /paper_ch3.html
+      output: web
+
+    - title: IV. Proprietary Software License
+      url: /paper_ch4.html
+      output: web
+
+    - title: V. Open Source Software
+      url: /paper_ch5.html
+      output: web
+
+    - title: VI. Legal Implications of Open Source Software (OSS)
+      url: /paper_ch6.html
+      output: web
+
+    - title: VII. Georgia Gwinnett College Technology Transfer
+      url: /paper_ch7.html
+      output: web
+
+    - title: VIII. Other Forms
+      url: /paper_ch8.html
+      output: web

@@ -1,1 +1,2 @@
 # GGCLegalForms
+This project is a site I've created for Georgia Gwinnett College to host a research paper and the legal forms in it. The goal of the site is to allow students easier access to information regarding legally protecting their software created while at GGC. The site was created using the Jekyll theme -"Documentation Theme" and published through github pages.

@@ -1,0 +1,36 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Forms
+    output: web, pdf
+    folderitems:
+
+    - title: Form 1
+      url: 
+      output: web
+
+    - title: Form 2
+      url: 
+      output: web
+
+    - title: Form 3
+      url: 
+      output: web
